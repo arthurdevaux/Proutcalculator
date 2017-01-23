@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "318264177618",
+    "firebase_url": "https://proutcalculator.firebaseio.com",
+    "project_id": "proutcalculator",
+    "storage_bucket": "proutcalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318264177618:android:17ffdfe906810144",
+        "android_client_info": {
+          "package_name": "com.example.devauxarthur.proutcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318264177618-7r7c5sc2s7v0tklb40b0o60u9abkdgg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcPkmQEAKlFviuOdy5fRNWVqAXg7U7uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
